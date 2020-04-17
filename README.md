@@ -1,4 +1,4 @@
-# txhunter_connector
+# phtxhunter
 This app integrates with TriagingX TXHunter to support forensic investigate actions.
 
 The Asset settings of Configuration:
